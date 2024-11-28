@@ -1,0 +1,76 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.11.2
+#@/tick	70
+#@/user_id	740140e4-90a9-4364-babb-eaadd52cc38c
+ban 	版	c=1 d=1 t=51
+bi jiao 	比較	c=1 d=1 t=19
+bing bu duo 	並不多	c=1 d=1 t=25
+bu dui 	不對	c=1 d=1 t=29
+bu shi 	不是	c=1 d=1 t=53
+bu yong 	不用	c=1 d=1 t=49
+dan shi 	但是	c=1 d=1 t=21
+de 	的	c=2 d=1.95123 t=33
+gei 	給	c=1 d=1 t=37
+gei chu 	給出	c=1 d=1 t=22
+gen 	跟	c=1 d=1 t=12
+hai de 	害得	c=0 d=0.1 t=44
+hai de qu 	害得去	c=1 d=1 t=45
+he 	和	c=1 d=1 t=63
+huang xiao ming 	黃曉明	c=1 d=1 t=13
+jia ru 	加入	c=1 d=1 t=70
+jia yi 	加一	c=0 d=0.1 t=41
+jia yi xia 	加一下	c=1 d=1 t=42
+jin e 	金額	c=1 d=1 t=56
+jiu 	就	c=1 d=1 t=7
+jue ding de 	決定的	c=1 d=1 t=20
+kai fa 	開發	c=1 d=1 t=5
+kai piao 	開票	c=1 d=1 t=57
+ke neng 	可能	c=1 d=1 t=17
+ke yi 	可以	c=2 d=1.91393 t=54
+le 	了	c=1 d=1.08825 t=27
+lei 	肋	c=1 d=1 t=2
+liu lan qi 	瀏覽器	c=1 d=1 t=60
+me 	麼	c=1 d=1 t=58
+mei you 	沒有	c=1 d=1 t=30
+meng xiang 	夢想	c=2 d=1.99501 t=68
+na ge 	那個	c=1 d=1 t=50
+o 	哦	c=1 d=1 t=28
+pei zhi 	配置	c=1 d=1 t=39
+pin wei 	品味	c=1 d=1 t=15
+qi shi 	其實	c=1 d=1 t=35
+qu 	去	c=0 d=0.1 t=44
+qu bie 	區別	c=1 d=1 t=66
+que ding 	確定	c=1 d=1 t=6
+sha 	啥	c=1 d=1 t=59
+she me 	什麼	c=1 d=1 t=65
+she zhi 	設置	c=2 d=1.95123 t=34
+shu liang 	數量	c=1 d=1 t=44
+shu ru 	輸入	c=1 d=1 t=55
+tai lan 	太懶	c=1 d=1 t=26
+tian qi 	天氣	c=1 d=1 t=10
+wo zhe 	我這	c=1 d=1 t=40
+wo zhe shi 	我這是	c=1 d=1 t=16
+xia 	下	c=0 d=0.1 t=41
+xiang 	想	c=1 d=1 t=41
+xiang ge 	像個	c=1 d=1 t=46
+xiang ge 	翔哥	c=1 d=1 t=47
+xiao lang hao 	小狼毫	c=1 d=1 t=32
+xuan ci 	選詞	c=1 d=1 t=43
+xue dao 	學到	c=0 d=0.1 t=2
+xue dao le 	學到了	c=1 d=1 t=3
+yi ge 	一個	c=1 d=1 t=14
+yi hou 	以後	c=1 d=1 t=4
+yong 	用	c=1 d=1 t=8
+yong hu 	用戶	c=1 d=1 t=18
+you 	有	c=1 d=1 t=64
+you shen me 	有什麼	c=1 d=1 t=61
+you shi 	優勢	c=1 d=1 t=62
+zen me 	怎麼	c=2 d=1.97478 t=69
+zhe 	這	c=0 d=0.1 t=10
+zhe ge 	這個	c=1 d=1 t=52
+zhe shi 	這是	c=1 d=1 t=31
+zhe zen me 	這怎麼	c=1 d=1 t=11
+zheng ge 	整個	c=1 d=1 t=38
+zhong 	中	c=2 d=1.96079 t=9
