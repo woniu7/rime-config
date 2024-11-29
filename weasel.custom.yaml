@@ -18,7 +18,7 @@ patch:
     hilited_candidate_text_color: 0x000000
     hilited_candidate_back_color: 0xE6F3FF
     candidate_text_color: 0x704D49
-    comment_text_color: 0xFFFFFF
+    comment_text_color: 0x704D49
 
       #  back_color: 0xFFFFFF
       #  border_color: 0xBFBFBF

@@ -1,4 +1,12 @@
 var:
-  last_build_time: 1732781975
+  last_build_time: 1732864454
   option:
     simplification: true
+    zh_hant: true
+  previously_selected_schema: luna_pinyin
+  schema_access_time:
+    bopomofo: 1732861792
+    cangjie5: 1732851594
+    luna_pinyin: 1732864575
+    radical_pinyin: 1732864538
+    stroke: 1732861664
