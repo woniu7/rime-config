@@ -1,0 +1,14 @@
+__patch:
+# Rx: emoji:customize:schema=luna_pinyin {
+  - patch/+:
+      __include: emoji_suggestion:/patch
+      punctuator/half_shape:
+        '/wrd': [ '15988152673', 'rongda@mys4s.cn' , '35058219941111855X']
+        '/tel': ['15988152673']
+        '/qq': ['123899696', '123899696@qq.com']
+        '/mail': [ 'rongda@mys4s.cn', 'wangerda@outlook.com', '123899696@qq.com' ]
+        '/invoice': ['浙江求圣科技有限公司 税号：913301103419308394']
+        '/addr': ['杭州市滨江区滨安路1168号施强广场大厦10幢7层']
+        '/nb': ['🐮🍺']
+        '/id': ['35058219941111855X']
+# }
